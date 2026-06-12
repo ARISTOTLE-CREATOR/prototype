@@ -1,0 +1,6 @@
+{
+  "name": "ArtisanGems",
+  "description": "A luxury e-commerce platform for handmade jewelry, featuring real-time tracking, custom collections, and Gemini-powered smart features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
