@@ -69,7 +69,6 @@ Designed to provide a seamless customer journey from discovery to checkout.
 - Secure checkout process
 - Multiple payment methods
 - Order confirmation and tracking
-- Mobile-friendly experience
 
 ---
 
